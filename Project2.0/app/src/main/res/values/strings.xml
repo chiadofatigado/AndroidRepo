@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 2.0</string>
+    <string name="Login">Login</string>
+    <string name="Registar">Ainda não tem uma conta\?</string>
+    <string name="User">Username</string>
+    <string name="Pass">Password</string>
+    <string name="CR">Atec\u00A9 2016</string>
+
+    <string name="title_activity_web">webActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
